@@ -1,0 +1,39 @@
+name: HW1_311551144
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2022.07.19=haa95532_0
+  - certifi=2022.9.14=py38haa95532_0
+  - openssl=1.1.1q=h2bbff1b_0
+  - pip=22.2.2=py38haa95532_0
+  - python=3.8.13=h6244533_0
+  - setuptools=63.4.1=py38haa95532_0
+  - sqlite=3.39.3=h2bbff1b_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - wincertstore=0.2=py38haa95532_2
+  - pip:
+    - cycler==0.11.0
+    - fonttools==4.37.4
+    - imageio==2.22.1
+    - kiwisolver==1.4.4
+    - matplotlib==3.5.3
+    - networkx==2.8.7
+    - numpy==1.23.3
+    - packaging==21.3
+    - pandas==1.4.4
+    - pillow==9.2.0
+    - pyparsing==3.0.9
+    - python-dateutil==2.8.2
+    - pytz==2022.4
+    - pywavelets==1.4.1
+    - scikit-image==0.19.3
+    - scipy==1.9.1
+    - six==1.16.0
+    - tifffile==2022.8.12
+    - torch==1.9.1+cu111
+    - torchaudio==0.9.1
+    - torchvision==0.10.1+cu111
+    - typing-extensions==4.3.0
+prefix: C:\Users\Axuy312\anaconda3\envs\HW1_311551144
